@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+# Site settings
+name: tangjunyan
+location: 马鞍山
+company: 学生
+position: 学C++
+github: https://github.com/tangjunyan2010
+facebook: https://www.facebook.com/
+phone: 19154100919
+email: 2144722530@qq.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
